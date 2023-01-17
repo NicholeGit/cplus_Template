@@ -1,0 +1,4 @@
+# 项目排除路径
+/build/cmake-build-debug/
+/build/cmake-build-release/
+/cmake-build-debug-coverage/
