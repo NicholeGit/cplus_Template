@@ -24,6 +24,7 @@
 ```shell
 cd  build  
 cmake ..  
+make
 ./server  # 执行可执行文件
 ```
 
